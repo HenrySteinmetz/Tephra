@@ -1,0 +1,10 @@
+[package]
+name = "Tephra"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+convert_case = "0.6.0"
+directories = "5.0.1"
+serde = "1.0.204"
+thiserror = "1.0.63"
