@@ -7,11 +7,3 @@ authors = ["Henry Steinmetz <matteo.steinmetz@t-online.de>"]
 license = "MIT"
 
 [dependencies]
-convert_case = "0.6.0"
-directories = "5.0.1"
-serde = "1.0.204"
-slint = "1.7.1"
-thiserror = "1.0.63"
-
-[build-dependencies]
-slint-build = "1.7.1"
