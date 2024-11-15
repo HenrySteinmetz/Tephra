@@ -1,5 +1,7 @@
 #![cfg_attr(not(debug_assertions), windows_subsystem = "windows")]
 
+mod tag;
+
 use eframe::egui;
 
 fn main() -> eframe::Result {
