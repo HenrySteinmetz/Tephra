@@ -2,8 +2,8 @@
 name = "Tephra"
 version = "0.1.0"
 edition = "2021"
-build = "build.rs"
 authors = ["Henry Steinmetz <matteo.steinmetz@t-online.de>"]
 license = "MIT"
 
 [dependencies]
+eframe = "0.29.1"
